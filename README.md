@@ -5,7 +5,7 @@ This project explores the use of regression techniques to predict a car’s fuel
 ****
 
 ## Dataset
-[Clickable link to my data file]](https://github.com/Bdowdle4/ml-regression-dowdle/blob/main/data/auto-mpg.csv)
+[Clickable link to my data file](https://github.com/Bdowdle4/ml-regression-dowdle/blob/main/data/auto-mpg.csv)
 
 The dataset used in this project is the UCI Auto MPG Dataset. This dataset contains 7 features and 1 ID extracted from the original dataset, and it is used to predict fuel consumption in miles per gallon. Key aspects of the dataset include:
 >Features: `cylinders`, `displacement`, `horsepower`, `weight`, `acceleration`, `model_year`, and `origin`. Plus a `car_name` identifier.
@@ -47,7 +47,7 @@ The key takeaways from the project include:
 ## Summary
 Overall, simple, interpretable models captured the majority of the relationship between vehicle attributes and fuel economy, while carefully structured pipelines allowed easy experimentation with more complex feature transformations. Thorough exploratory data analysis, targeted handling of missing and skewed data, and cross‑validation ensured that our improvements were robust and generalizable. The project underscores the value of starting with a parsimonious baseline before layering in non‑linear and preprocessing steps.
 
-As a requirement of this project, I also completed a [peer review](https://github.com/S572396/ml-07-sruiz/blob/main/sruiz-medreg.ipynb) of another classmates project. I chose a classmate that did a different dataset than myself.
+As a requirement of this project, I also completed a [peer review](https://github.com/Bdowdle4/ml-regression-dowdle/blob/main/peer_review.md) of another classmates project. I chose a classmate that did a different dataset than myself.
 
 ****
 

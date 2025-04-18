@@ -1,0 +1,1 @@
+[Clickable Link to Notebook](https://github.com/S572396/ml-07-sruiz/blob/main/sruiz-medreg.ipynb)
