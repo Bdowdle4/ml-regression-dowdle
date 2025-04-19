@@ -11,7 +11,7 @@ The dataset used in this project is the UCI Auto MPG Dataset. This dataset conta
 >
 >Target Variable: `mpg` 
 >
->Data Source: The dataset is publicly available from the UCI Machine Learning Repository and is widely used for binary classification tasks. [Original Dataset](https://archive.ics.uci.edu/dataset/9/auto+mpg)
+>Data Source: The dataset is publicly available from the UCI Machine Learning Repository and is widely used for regression tasks. [Original Dataset](https://archive.ics.uci.edu/dataset/9/auto+mpg)
 
 ****
 
@@ -33,7 +33,7 @@ Determining the significance of each feature in the prediction process. Drawing 
 
 > Examining coefficients and error reductions across models. Polynomial pipeline interaction and squared terms validate the insights.
 >
-> `weight` proves to be the most influential predictor. `Model_year` reflects improvements over time in regulatory or technological advancements.
+> `weight` proves to be the most influential predictor. `model_year` reflects improvements over time in regulatory or technological advancements.
 >
 > The impact of weight and fuel efficiency changes non-linearly with age. Newer, heavier cars have less fuel effiency penalties than older, heavier cars. This project confirms that vehicle mass is critical to understanding fuel economy.
 
